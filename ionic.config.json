@@ -1,0 +1,7 @@
+{
+  "name": "codePush",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
