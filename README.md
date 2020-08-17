@@ -1,2 +1,2 @@
-# ionic-codepush-practice
-Practicing In-app Update Ionic
+# Ionic Codepush
+Ionic in-app update play around.
